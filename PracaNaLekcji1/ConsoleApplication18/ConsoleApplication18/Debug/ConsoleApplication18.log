@@ -1,0 +1,7 @@
+﻿  ConsoleApplication18.cpp
+  szyfr.cpp
+c:\users\kajtek.sci\source\repos\consoleapplication18\consoleapplication18\szyfr.cpp(28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kajtek.sci\source\repos\consoleapplication18\consoleapplication18\szyfr.cpp(50): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kajtek.sci\source\repos\consoleapplication18\consoleapplication18\szyfr.cpp(64): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  ConsoleApplication18.vcxproj -> C:\Users\kajtek.SCI\source\repos\ConsoleApplication18\Debug\ConsoleApplication18.exe
