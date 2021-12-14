@@ -1,0 +1,8 @@
+﻿  ConsoleApplication18.cpp
+  szyfr.cpp
+c:\users\kajtek\downloads\sci_inf-master\pracanalekcji1\consoleapplication18\consoleapplication18\szyfr.cpp(28): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kajtek\downloads\sci_inf-master\pracanalekcji1\consoleapplication18\consoleapplication18\szyfr.cpp(50): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\kajtek\downloads\sci_inf-master\pracanalekcji1\consoleapplication18\consoleapplication18\szyfr.cpp(64): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+c:\users\kajtek\downloads\sci_inf-master\pracanalekcji1\consoleapplication18\consoleapplication18\szyfr.cpp(92): warning C4715: "modInverse”: niewszystkie ścieżki kodu zwracają wartość
+  ConsoleApplication18.vcxproj -> C:\Users\kajtek\Downloads\SCI_INF-master\PracaNaLekcji1\ConsoleApplication18\Debug\ConsoleApplication18.exe
