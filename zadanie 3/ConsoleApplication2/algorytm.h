@@ -10,10 +10,14 @@ using namespace std;
 class algorytm
 {
 public:
-	//gdy uzylem konstruktr porogram nie dzialal
 	vector <int> babelkowe;
 	void algorytmbabel();
 	vector <int> wstawieniowe;
 	void algorytmwstawianie();
+	vector <int> szybkie;
+	void algorytmszybkie();
+	vector <int> d;
+	void szybko(int lewy, int prawy); 
+	vector <int> wybieranie;
+	void algwybieranie();
 };
-
